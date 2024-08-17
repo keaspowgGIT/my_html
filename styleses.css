@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #4CAF50;
+}
+
+h2 {
+    color: #F44336;
+}
+
+p {
+    line-height: 1.5;
+    color: #913DEB;
+
+}
+
+p1 {
+    line-height: 1.5;
+    color: #0558FF;
+
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px 12px;
+    text-align: left;
+}
+
+th {
+    background-color: lightblue;
+}
+
+td {
+    background-color: lightgreen;
+}
+
+label {
+    display: block;
+    margin:5px 0;
+}
+
+.highlight {
+    background-color: #ffeb3b; /* Желтый фон */
+    color: #000; /* Черный текст */
+    font-weight: bold; /* Жирный текст */
+    padding: 5px; /* Добавим немного внутреннего отступа */
+}
+
+h1 {
+    margin-bottom: 20px; /* Отступ снизу */
+}
+
+h2 {
+    margin:5px 0; /* Отступы сверху и снизу */
+}
+
+p {
+    margin: 10px 0; /* Отступы сверху и снизу */
+}
+
+.highlight {
+    margin: 10px 0; /* Отступы сверху и снизу для выделенных блоков */
+}
