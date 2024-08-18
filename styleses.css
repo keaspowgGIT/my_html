@@ -53,24 +53,24 @@ label {
 }
 
 .highlight {
-    background-color: #ffeb3b; /* Желтый фон */
-    color: #000; /* Черный текст */
-    font-weight: bold; /* Жирный текст */
-    padding: 5px; /* Добавим немного внутреннего отступа */
+    background-color: #ffeb3b; 
+    color: #000; 
+    font-weight: bold; 
+    padding: 5px; 
 }
 
 h1 {
-    margin-bottom: 20px; /* Отступ снизу */
+    margin-bottom: 20px; 
 }
 
 h2 {
-    margin:5px 0; /* Отступы сверху и снизу */
+    margin:5px 0; 
 }
 
 p {
-    margin: 10px 0; /* Отступы сверху и снизу */
+    margin: 10px 0; 
 }
 
 .highlight {
-    margin: 10px 0; /* Отступы сверху и снизу для выделенных блоков */
+    margin: 10px 0; 
 }
